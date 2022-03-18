@@ -27,15 +27,15 @@ p {
 }
 body {
     background-color: rgb(235, 235, 235);
+    
 }
 
 .col-md-3 {
     border: solid black;
     border-width: 1px;
-    background-color: rgb(250, 222, 171);
-    margin: 10px;
-    float: left;
-    
+    background-color: rgb(235, 235, 235);
+    padding: 2px;
+    margin: auto;
 }
 img {
     width: 5cm;
@@ -43,9 +43,10 @@ img {
     padding: 10px solid yellow;
     margin: 3px;
     position:relative;
-    display:grid;
+    display: block;
+    background-color: rgb(235, 235, 235);
 }
-.rightside {
+.sidebar {
     float: left;
+    margin: 0.5cm;
 }
-
