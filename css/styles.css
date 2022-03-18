@@ -33,9 +33,9 @@ body {
 .col-md-3 {
     border: solid black;
     border-width: 1px;
-    background-color: rgb(235, 235, 235);
     padding: 2px;
     margin: auto;
+    width: 7cm;
 }
 img {
     width: 5cm;
@@ -49,4 +49,8 @@ img {
 .sidebar {
     float: left;
     margin: 0.5cm;
+}
+#boxcolor {
+    background-color: rgb(235, 235, 235);
+    border-color: rgb(235, 235, 235);
 }
