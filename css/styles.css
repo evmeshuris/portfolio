@@ -1,5 +1,5 @@
 span {
-    text-decoration: wavy;
+    text-shadow: aqua;
 }
 
 h1 {
@@ -47,21 +47,17 @@ body {
 }
 img {
     width: 5cm;
-    border: 5px solid black;
-    float: center;
-    padding: 3px solid yellow;
+    border: 6px solid rgb(187, 34, 34);
+    padding: 10px solid yellow;
     margin: 3px;
-    box-sizing: border-box;
+    float: right;
     display: block;
+    box-sizing: border-box;
+    object-fit: cover;
 }
 .rightside {
-    margin: auto;
-    margin-left: 5px;
-    padding: auto;
-    border:solid rgb(18, 119, 35);
-    border-width:rgb(18, 119, 35);
-    width: 10%;
-    background-color: aliceblue;
     float: right;
-    box-sizing: content-box;
-}
+    box-sizing: border-box;
+    display: block;
+    }
+
