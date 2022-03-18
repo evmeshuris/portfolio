@@ -27,40 +27,29 @@ p {
 }
 .important {
     color: red;
-  }
-  .sidebar {
+}
+.sidebar {
     width: 30%;
     float: right;
-  }
+}
 
 body {
     background-color: rgb(235, 235, 235);
 }
 
-.Camping {
-    width: 50%;
+.col-3 {
+    width: 20%;
     border: solid black;
     border-width: 1px;
-    background-color: orange;
-    margin-bottom: 10px;
-  }
-  
-  .Hiking {
-    width: 50%;
-    border: solid black;
-    border-width: 1px;
-    background-color: orange;
-    margin-bottom: 10px;
-  }
-  
-  .Travel {
-    width: 50%;
-    border: solid black;
-    border-width: 1px;
-    background-color: orange;
-    margin-bottom: 10px;
-  }
+    background-color: rgb(250, 222, 171);
+    margin: 10px;
+    float: left;
+}
 img {
     width: 5cm;
-    border-color: rgb(82, 72, 72);
+    border: 5px solid black;
+    float: center;
+    padding: 3px solid yellow;
+    margin: 3px;
+    box-sizing: border-box;
 }
