@@ -34,8 +34,11 @@ body {
     border: solid black;
     border-width: 1px;
     padding: 2px;
-    margin: auto;
+    margin: 2px;
     width: 7cm;
+    height: 8cm;
+    display: flex;
+    justify-content: center;
 }
 img {
     width: 5cm;
