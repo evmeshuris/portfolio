@@ -60,3 +60,7 @@ body {
     background-color: orange;
     margin-bottom: 10px;
   }
+img {
+    width: 5cm;
+    border-color: rgb(82, 72, 72);
+}
