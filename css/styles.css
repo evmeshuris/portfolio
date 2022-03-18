@@ -25,3 +25,38 @@ h2 {
 p {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.important {
+    color: red;
+  }
+  .sidebar {
+    width: 30%;
+    float: right;
+  }
+
+body {
+    background-color: rgb(235, 235, 235);
+}
+
+.Camping {
+    width: 50%;
+    border: solid black;
+    border-width: 1px;
+    background-color: orange;
+    margin-bottom: 10px;
+  }
+  
+  .Hiking {
+    width: 50%;
+    border: solid black;
+    border-width: 1px;
+    background-color: orange;
+    margin-bottom: 10px;
+  }
+  
+  .Travel {
+    width: 50%;
+    border: solid black;
+    border-width: 1px;
+    background-color: orange;
+    margin-bottom: 10px;
+  }
