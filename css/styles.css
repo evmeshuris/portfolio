@@ -52,4 +52,16 @@ img {
     padding: 3px solid yellow;
     margin: 3px;
     box-sizing: border-box;
+    display: block;
+}
+.rightside {
+    margin: auto;
+    margin-left: 5px;
+    padding: auto;
+    border:solid rgb(18, 119, 35);
+    border-width:rgb(18, 119, 35);
+    width: 10%;
+    background-color: aliceblue;
+    float: right;
+    box-sizing: content-box;
 }
