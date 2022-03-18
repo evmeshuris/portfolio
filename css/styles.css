@@ -29,22 +29,23 @@ body {
     background-color: rgb(235, 235, 235);
 }
 
-.col-3 {
-    width: 20%;
+.col-md-3 {
     border: solid black;
     border-width: 1px;
     background-color: rgb(250, 222, 171);
     margin: 10px;
     float: left;
-    box-sizing: content-box;
+    
 }
 img {
     width: 5cm;
     border: 6px solid rgb(187, 34, 34);
     padding: 10px solid yellow;
     margin: 3px;
+    position:relative;
+    display:grid;
 }
 .rightside {
-    float: right;
+    float: left;
 }
 
