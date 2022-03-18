@@ -1,5 +1,5 @@
 span {
-    text-shadow: aqua;
+    color:rgb(187, 34, 34)
 }
 
 h1 {
@@ -25,14 +25,6 @@ h2 {
 p {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-.important {
-    color: red;
-}
-.sidebar {
-    width: 30%;
-    float: right;
-}
-
 body {
     background-color: rgb(235, 235, 235);
 }
@@ -44,20 +36,15 @@ body {
     background-color: rgb(250, 222, 171);
     margin: 10px;
     float: left;
+    box-sizing: content-box;
 }
 img {
     width: 5cm;
     border: 6px solid rgb(187, 34, 34);
     padding: 10px solid yellow;
     margin: 3px;
-    float: right;
-    display: block;
-    box-sizing: border-box;
-    object-fit: cover;
 }
 .rightside {
     float: right;
-    box-sizing: border-box;
-    display: block;
-    }
+}
 
