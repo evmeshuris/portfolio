@@ -16,7 +16,7 @@ _This webpage contains information about me, my work, interests, places that I v
 ## Setup/Installation Requirements
 
 * _No Installation Requirements_
-* _Refresh the page to see updates
+* _Refresh the page to see updates_
 
 
 ## Known Bugs
