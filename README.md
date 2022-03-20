@@ -11,17 +11,18 @@
 
 ## Description
 
-_This webpage contains information about me, my work, interests, places that I visited._
+_This is my first assignment at Epicodus. This webpage contains information about me, my work, interests, places that I visited._
 
 ## Setup/Installation Requirements
 
 * _No Installation Requirements_
 * _Refresh the page to see updates_
+* _evmeshuris.github.io/portfolio_
 
 
 ## Known Bugs
 
-* _Picture is not loading_
+* _None known bugs_
 
 ## License
 
