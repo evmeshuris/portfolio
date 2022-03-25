@@ -23,9 +23,3 @@ _This is my first assignment at Epicodus. This webpage contains information abou
 ## Known Bugs
 
 * _None known bugs_
-
-## License
-
-_Unlicensed_
-
-Copyright (c) _2022_ _Evgeniya Meshuris_
