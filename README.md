@@ -17,7 +17,7 @@ _This is my first assignment at Epicodus. This webpage contains information abou
 
 * _No Installation Requirements_
 * _Refresh the page to see updates_
-* _evmeshuris.github.io/portfolio_
+ _evmeshuris.github.io/portfolio_
 
 
 ## Known Bugs
