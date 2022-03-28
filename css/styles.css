@@ -1,5 +1,5 @@
 span {
-    color:rgb(187, 34, 34)
+    color: rgb(187, 34, 34)
 }
 
 h1 {
@@ -8,8 +8,8 @@ h1 {
     color: rgb(110, 105, 105);
 }
 
-.header {
-    color:rgb(110, 105, 105);
+head {
+    color: rgb(110, 105, 105);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -19,12 +19,14 @@ h1 {
 }
 
 .list {
-    color:brown;
+    color: brown;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 p {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
 body {
     background-color: rgb(235, 235, 235);
     margin: 20px
@@ -40,19 +42,20 @@ body {
     display: flex;
     justify-content: center;
 }
+
 img {
     width: 5cm;
     border: 6px solid rgb(187, 34, 34);
-    padding: 10px solid yellow;
     margin: 3px;
-    position:relative;
+    position: relative;
     display: block;
-    background-color: rgb(235, 235, 235);
 }
+
 .sidebar {
     float: left;
     margin: 0.5cm;
 }
+
 .boxcolor {
     background-color: rgb(235, 235, 235);
     border-color: rgb(235, 235, 235);
