@@ -11,15 +11,22 @@
 
 ## Description
 
-_This is my first assignment at Epicodus. This webpage contains information about me, my work, interests, places that I visited._
+_This is my first assignment at Epicodus.This webpage contains information about me, my work, interests, places that I visited._
 
 ## Setup/Installation Requirements
 
 * _No Installation Requirements_
-* _Refresh the page to see updates_
- _evmeshuris.github.io/portfolio_
+* _Follow the link below to see my portfolio page_
+* _http://evmeshuris.github.io/portfolio_
 
 
 ## Known Bugs
 
 * _None known bugs_
+
+
+## License
+
+_Licensed under the [MIT License](LICENSE)_
+
+Copyright (c) _2022_ _Evgeniya Meshuris_
